@@ -14,9 +14,4 @@
 - GitHub Projects & Open Source
 - Building a solid tech profile
 
-📫 Connect with me (coming soon):
-- LinkedIn: (once made)
-- Devfolio: (once set up)
-- Discord: (if you’re comfortable sharing)
-
 🛠️ Let’s build, learn, and level up — together!
