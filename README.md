@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hey there! I'm Om Bhoskar
 
-<!--
-**bhoskarom-dev/bhoskarom-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 An engineering student passionate about learning how to *build real-world tech*, step by step.  
+🔧 Currently focused on:
+- 🧠 Data Structures & Algorithms (DSA)
+- 📱 App Development (Exploring Flutter & Android)
+- ⚙️ Backend + APIs (Node.js, Express)
+- 💻 Competitive Coding
 
-Here are some ideas to get you started:
+🌱 I’m on a mission to turn my skills into real impact, projects, and income.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Actively participating in:
+- Hackathons (Devfolio, Unstop)
+- GitHub Projects & Open Source
+- Building a solid tech profile
+
+📫 Connect with me (coming soon):
+- LinkedIn: (once made)
+- Devfolio: (once set up)
+- Discord: (if you’re comfortable sharing)
+
+🛠️ Let’s build, learn, and level up — together!
